@@ -2,7 +2,7 @@
 # Overview
 This project demonstrates data analysis on sales data using Python and Pandas.The analysis focuses on exploring salespatterns,
 performing data aggregation, and creating visualizations to derive business insights.
-# Technical Stack
+## Technical Stack
 -Python 3.x
 -Pandas (Data manipulation and analysis)
 -Matplotlib (Data visualization)
