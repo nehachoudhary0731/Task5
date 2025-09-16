@@ -12,16 +12,16 @@ This project demonstrates data analysis on sales data using Python and Pandas. T
 
 ## Key Steps
 
-### 1. Data Loading and Cleaning
+# 1. Data Loading and Cleaning
 - Load data from CSV files using pd.read_csv().
 - Handle date columns and convert them to proper datetime format using pd.to_datetime().
 - Identify and treat missing values using methods like dropna() or fillna().
 
-### 2. Data Aggregation
+# 2. Data Aggregation
 - Group data using groupby() to summarize sales by product, region, or time period.
 - Calculate key metrics like total sales, average sales, and growth trends.
 
-### 3. Data Visualization
+# 3. Data Visualization
 - Plot trends over time using line charts.
 - Compare categories using bar plots.
 - Explore relationships with scatter plots and correlation heatmaps.
